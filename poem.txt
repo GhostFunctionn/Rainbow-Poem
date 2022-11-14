@@ -4,6 +4,7 @@ Purlpe
 Pink
 Orange 
 Blue
+Indigo
 Red
 Unicorn
 Green
